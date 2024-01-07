@@ -32,3 +32,6 @@ function Thumb({ name, mobile, imageLink, age, verified, children }) {
 }
 
 export default Thumb;
+
+
+

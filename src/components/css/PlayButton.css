@@ -1,7 +1,7 @@
 .btn {
     display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: 8px 15px;
+    font-size: 12px;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
@@ -10,7 +10,7 @@
     border-radius: 5px;
     color: #007bff; /* Change the color as needed */
     background-color: #ffffff; /* Change the color as needed */
-    margin: 5px;
+    margin: 3px;
   }
 
   .btn:hover {
